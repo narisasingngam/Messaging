@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454012207411",
+    "project_id": "messaging-8fa08",
+    "storage_bucket": "messaging-8fa08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454012207411:android:f25b63193322d095a13e46",
+        "android_client_info": {
+          "package_name": "com.example.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454012207411-b31lhroafjsim8kcn14l4po07a3jhgpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjIQYycBpQS0oglWGEakPzKDaeMAfYHlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454012207411-b31lhroafjsim8kcn14l4po07a3jhgpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
